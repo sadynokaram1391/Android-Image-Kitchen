@@ -5,7 +5,7 @@
              sync-j="4" />
 
     <remote name="main-remote"
-            fetch="https://github.com/your-organization/" />
+            fetch="https://github.com/sadynokaram1391/Android-Image-Kitchen" />
 
     <project name="main-repo"
              path="main-project"
