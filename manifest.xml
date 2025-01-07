@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <default remote="main-remote"
+             revision="main"
+             sync-j="4" />
+
+    <remote name="main-remote"
+            fetch="https://github.com/your-organization/" />
+
+    <project name="main-repo"
+             path="main-project"
+             revision="main" />
+</manifest>
